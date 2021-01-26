@@ -1,4 +1,4 @@
-# deeplearning_automl
+# camSortXS
 Deep learning and autoML: applications to x-ray data
 http://bit.ly/deeplearningxray
 
