@@ -24,12 +24,12 @@ Temporarily in Google [drive](https://drive.google.com/drive/folders/1Tq9nKdz7W1
 
 ## Codes:
 - Feature extraction schemes:
-  - GLCM
-  - Histogram-based
-  - LeNet
+  - [GLCM](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html)
+  - [Histogram-based]
+  - [LeNet](https://github.com/s-miramontes/ISVC2019)
 
 - AutoML
-  - pyCaret routines
+  - [pyCaret routines](https://pycaret.org/predict-model/)
   - running in a super computer
   
 - Metrics  
