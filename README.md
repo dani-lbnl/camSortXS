@@ -1,11 +1,12 @@
 # camSortXS
-Deep learning and autoML: applications to x-ray data
+Deep learning and autoML routines and applications to X-ray data
 http://bit.ly/deeplearningxray
 
 
 <table border="0">
  <tr>
-    <td><a href"http://bit.ly/deeplearningxray"><img src="https://github.com/dani-lbnl/deeplearning_automl/blob/main/camSortXS.png" width="100"></a>
+    <td><a href"http://bit.ly/deeplearningxray"><img src="https://github.com/dani-lbnl/deeplearning_automl/blob/main/camSortXS.png" width="600"></a>
+<p>     camSortXS
     </td>
     <td>
        <p>
