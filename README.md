@@ -5,7 +5,7 @@ http://bit.ly/deeplearningxray
 
 <table border="0">
  <tr>
-    <td><a href"http://bit.ly/deeplearningxray"><img src="https://github.com/dani-lbnl/deeplearning_autml/blob/main/camSortXS.png" width="400"></a>
+    <td><a href"http://bit.ly/deeplearningxray"><img src="https://github.com/dani-lbnl/deeplearning_automl/blob/main/camSortXS.png" width="100"></a>
     </td>
     <td>
      <p>
