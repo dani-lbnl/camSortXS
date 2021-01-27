@@ -29,8 +29,8 @@ Temporarily in Google [drive](https://drive.google.com/drive/folders/1Tq9nKdz7W1
   - [LeNet](https://github.com/s-miramontes/ISVC2019)
 
 - AutoML
-  - [pyCaret routines](https://pycaret.org/predict-model/)
-  - running in a super computer [queue](automl_nersc_job.q)
+  - [pyCaret routines] [[our routine w/ dask]](https://github.com/dani-lbnl/camSortXS/blob/main/paralleldask.py) [[manual]](https://pycaret.org/predict-model/)
+  - running in a super computer [[queue]](automl_nersc_job.q) 
   
 - Metrics  
  
