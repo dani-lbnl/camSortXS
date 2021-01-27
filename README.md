@@ -28,7 +28,7 @@ These are key parts of camSortXS that will allow to understand adopted strategie
 - Feature extraction schemes:
   - [GLCM](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html)
   - [Histogram-based](https://github.com/dani-lbnl/camSortXS/blob/main/histogram.py)
-  - LeNet: [[our routine]](flavio) [[example]](https://github.com/s-miramontes/ISVC2019)
+  - LeNet: [[our routine]](flavio) [[example]](https://github.com/dani-lbnl/camSortXS/blob/main/train_lenet.ipynb)
   - Deeper CNNs: [[docs]](https://keras.io/api/applications)
 
 - AutoML
