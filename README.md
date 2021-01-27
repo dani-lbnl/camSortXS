@@ -22,7 +22,9 @@ http://bit.ly/camSortXS
 ## Datasets:
 Temporarily in Google [drive](https://drive.google.com/drive/folders/1Tq9nKdz7W1l-5lFxNvbTPuTV2F1zGi8F?usp=sharing), soon to be on Dryad.
 
-## Codes:
+## Codes (full camSortXS toolset will be available upon acceptance):
+These are key parts of camSortXS that will allow to understand adopted strategies and results described in paper submitted to J. of Imaging in Jan 2021
+
 - Feature extraction schemes:
   - [GLCM](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html)
   - [Histogram-based](https://github.com/dani-lbnl/camSortXS/blob/main/histogram.py)
