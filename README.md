@@ -37,7 +37,7 @@ These are key parts of camSortXS that will allow to understand adopted strategie
   - Metrics  
 
 - GradCAM via Keras
- - [[our implementation]](flavio)
+ - [[our implementation]](https://github.com/dani-lbnl/camSortXS/blob/main/grad_cam_activation_map.ipynb)
  - [[docs]](https://keras.io/examples/vision/grad_cam/)
 
 ## Abstract:
