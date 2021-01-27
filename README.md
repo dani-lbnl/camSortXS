@@ -30,7 +30,7 @@ Temporarily in Google [drive](https://drive.google.com/drive/folders/1Tq9nKdz7W1
 
 - AutoML
   - [pyCaret routines](https://pycaret.org/predict-model/)
-  - running in a super computer
+  - running in a super computer [queue](automl_nersc_job.q)
   
 - Metrics  
  
