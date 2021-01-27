@@ -28,11 +28,11 @@ These are key parts of camSortXS that will allow to understand adopted strategie
 - Feature extraction schemes:
   - [GLCM](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html)
   - [Histogram-based](https://github.com/dani-lbnl/camSortXS/blob/main/histogram.py)
-  - [LeNet](https://github.com/s-miramontes/ISVC2019)
-  - [Deeper CNNs - docs](https://keras.io/api/applications)
+  - LeNet: [[our routine]](flavio) [[example]](https://github.com/s-miramontes/ISVC2019)
+  - Deeper CNNs: [[docs]](https://keras.io/api/applications)
 
 - AutoML
-  - [pyCaret routines] [[our routine w/ dask]](https://github.com/dani-lbnl/camSortXS/blob/main/paralleldask.py) [[manual]](https://pycaret.org/predict-model/)
+  - pyCaret routines: [[our routine w/ dask]](https://github.com/dani-lbnl/camSortXS/blob/main/paralleldask.py) [[docs for LightGBM, XGBoost, Random Forest, Extra trees, Catboost]](https://pycaret.org/predict-model/)
   - running in a super computer [[queue]](automl_nersc_job.q) 
   
 - Metrics  
