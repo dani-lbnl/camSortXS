@@ -12,9 +12,9 @@ http://bit.ly/camSortXS
        <p>
         camSortXS is a set of routines for autonomously sort X-ray scattering patterns from large image datasets of energy critical materials, imaged using 4 techniques: SAXS, WAXS, GISAXS and GIWAXS. Sorted patterns depend upon deep learning based on TensorFlow and AutoML algorithms. The image dataset includes thousands of patterns from real experiments performed by multiple users from a synchrotron-light beamline. Each scattering pattern undergoes featurization using 8 methods, including different architectures for deep learning, generating a total of 25 possible representations per pattern. These are input to AutoML that creates 5 different classification models per featurization, which are individually evaluated using 7 metrics of performance. 
        <p>
-      - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Preprint]</a>
+      - <a href="https://github.com/dani-lbnl/camSortXS/blob/main/MDPI_Journal_of_Imaging_2020_ushizima.pdf">[Preprint]</a>
        <p>
-      - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Video]</a>
+      - <a href="https://www.american-cse.org/static/2021-CSCE-BOOKLET-with-cover.pdf">[Proceedings]</a>
       </td>
  </tr>
 </table>
